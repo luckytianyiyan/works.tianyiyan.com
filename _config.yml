@@ -104,12 +104,18 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+  - image: "/img/timeline/tylauncher-156x156.png"
+    date: "2015年08月 - Today"
+    description: "桌面应用 - TyLauncher 重构了 TyyAppManager, 并更名为 TyLauncher"
+  - image: "/img/timeline/6-d_space-156x156.png"
+    date: "2015年02月 - 2015年04月"
+    description: "手游 - Six-dimensional Space(6-D Space、六维空间)"
+  - image: "/img/timeline/tyy_app_manager-156x156.png"
+    date: "2014年10月 - 2014年11月"
+    description: "桌面应用 - TyyAppManager"
+  - image: "/img/timeline/xiaoming_is_comming-156x156.png"
+    date: "2014年05月 - 2014年11月"
+    description: "手游 - 小明来了(XiaoMingIsComing)"
 
 # First image of the Timeline
 
