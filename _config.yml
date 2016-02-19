@@ -42,7 +42,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: 
+background-img:
 
 ##############################
 # Dynamic Text on the Header #
@@ -95,7 +95,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "tyyworks"
 
 syntax-highlight: True
 
