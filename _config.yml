@@ -157,7 +157,8 @@ social:
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
+  Projects: 'projects'
+  # Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
