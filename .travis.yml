@@ -8,3 +8,7 @@ script: JEKYLL_ENV=production jekyll serve --baseurl "" --detach && htmlproof ./
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+
+branches:
+  only:
+    - tyy-works
