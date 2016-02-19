@@ -9,19 +9,24 @@ works.tianyiyan.com
 
 **You can also get the relevant technical support through this site.:beers:**
 
-How to run locally
+Build
 ---
+This is a [Jekyll](http://jekyllrb.com) site.
+To build a Jekyll site you'll need a few things on your system so double check the [Jekyll requirements](http://jekyllrb.com/docs/installation/#requirements).
+In addition to those, you'll need these Ruby gems:
 
-First, you need to install jekyll and the dependencies of `works.tianyiyan.com` by running:
+```bash
+$ gem install jekyll
+$ gem install bundler
+```
+Follow these steps to copy this repository to your computer and build the site:
 
-````
-./scripts/install
-````
-
-Then, you can build and serve your website by simply running:
-
-````
-./scripts/serve-production
+```bash
+$ git clone https://github.com/luckytianyiyan/works.tianyiyan.com.git
+$ cd works.tianyiyan.com
+$ script/bootstrap
+$ script/server-production
+```
 ````
 
 OSS used in `works.tianyiyan.com`
