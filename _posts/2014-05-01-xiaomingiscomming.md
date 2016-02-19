@@ -8,7 +8,7 @@ platform: iOS 7+
 language: C++ (Cocos2d-x)
 ---
 
-![/images/post/WorksSample-6D-Space.jpg](/images/post/WorksSample-XiaoMingIsComing.jpg)
+![/img/post/WorksSample-XiaoMingIsComing.jpg](/img/post/WorksSample-XiaoMingIsComing.jpg)
 
 # 简介
 

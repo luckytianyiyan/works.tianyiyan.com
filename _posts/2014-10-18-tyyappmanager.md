@@ -8,7 +8,7 @@ platform: Windows 7+
 language: C++ (Qt 5)
 ---
 
-![/images/post/WorksSample-6D-Space.jpg](/img/post/WorksSample-TyyAppManager.jpg)
+![/img/post/WorksSample-6D-Space.jpg](/img/post/WorksSample-TyyAppManager.jpg)
 
 > 其已被重构, 并重新命名为 TyLauncher
 
