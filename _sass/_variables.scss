@@ -6,10 +6,12 @@ $light: #fff;
 
 $navbar-text-shadow: true;
 $header-text-shadow: true;
-$header-background-color: $dark;
+// $header-background-color: $dark;
+$header-background-color: transparent;
 $intro-text-color: $light;
 $navbar-color: $light;
-$navbar-lg-collapse-background-color: $header-background-color;
+// $navbar-lg-collapse-background-color: $header-background-color;
+$navbar-lg-collapse-background-color: $dark;
 $navbar-lg-background: transparent;
 $navbar-sm-background-color: $navbar-lg-collapse-background-color;
 
