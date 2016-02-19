@@ -3,11 +3,11 @@ works.tianyiyan.com
 [![Build Status](https://travis-ci.org/luckytianyiyan/works.tianyiyan.com.svg?branch=tyy-works)](https://travis-ci.org/luckytianyiyan/works.tianyiyan.com)
 [![GitHub license](https://img.shields.io/badge/license-MIT%20License-blue.svg)](https://github.com/luckytianyiyan/works.tianyiyan.com/blob/tyy-works/LICENSE)
 
-** :octocat: [luckytianyiyan](https://github.com/luckytianyiyan)'s works show [website](http://works.tianyiyan.com). **
+**:octocat: [luckytianyiyan](https://github.com/luckytianyiyan)'s works show [website](http://works.tianyiyan.com).**
 
-** Here you can find the introduction of my major works. **
+**Here you can find the introduction of my major works.**
 
-** You can also get the relevant technical support through this site.:beers:**
+**You can also get the relevant technical support through this site.:beers:**
 
 How to run locally
 ---
