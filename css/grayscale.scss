@@ -266,6 +266,12 @@ a {
     }
 }
 
+#post{
+  ul, ol {
+    text-align: left;
+  }
+}
+
 .btn {
     border-radius: 0;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
