@@ -1,0 +1,27 @@
+#!/usr/bin/env ruby
+# usage: script/new-works
+#
+# create a new works
+
+require 'date'
+
+kWorksTemplate = \
+"---
+layout: post
+section-type: post
+title: %s
+category: Category
+tags: [ '%s' ]
+platform:
+language:
+---
+"
+
+kWorksDirectroy = '_posts/'
+
+works = ARGV[0]
+
+File.open(kWorksDirectroy + Date.today.strftime("%Y-%m-%d-") + works.downcase + '.md', 'w') {|f| f.write(kWorksTemplate % [works, works])
+}
+
+puts('[+] Created ' + works + ' works')

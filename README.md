@@ -9,7 +9,7 @@ works.tianyiyan.com
 
 **You can also get the relevant technical support through this site.:beers:**
 
-Build
+Build && Run
 ---
 This is a [Jekyll](http://jekyllrb.com) site.
 To build a Jekyll site you'll need a few things on your system so double check the [Jekyll requirements](http://jekyllrb.com/docs/installation/#requirements).
@@ -24,8 +24,30 @@ Follow these steps to copy this repository to your computer and build the site:
 ```bash
 $ git clone https://github.com/luckytianyiyan/works.tianyiyan.com.git
 $ cd works.tianyiyan.com
-$ script/bootstrap
-$ script/server-production
+$ ./script/bootstrap
+$ ./script/server-production
+```
+
+Usage
+---
+#### create a new works
+
+```
+$ ./scripts/new-works [works_name]
+```
+
+> Note: After the editor.Please remember to update tags
+
+#### generate or update tags
+
+```
+$ ./scripts/generate-tags
+```
+
+#### deploy
+
+```
+$ ./scripts/deploy
 ```
 
 OSS used in `works.tianyiyan.com`
