@@ -1,7 +1,7 @@
 works.tianyiyan.com
 ===
 [![Build Status](https://travis-ci.org/luckytianyiyan/works.tianyiyan.com.svg?branch=tyy-works)](https://travis-ci.org/luckytianyiyan/works.tianyiyan.com)
-[![GitHub license](https://img.shields.io/badge/license-MIT%20License-blue.svg)](https://github.com/luckytianyiyan/works.tianyiyan.com/blob/tyy-works/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT%20License-blue.svg)](https://github.com/luckytianyiyan/works.tianyiyan.com/blob/tyy-works/LICENSE.md)
 
 **:octocat: [luckytianyiyan](https://github.com/luckytianyiyan)'s works show [website](http://works.tianyiyan.com).**
 
