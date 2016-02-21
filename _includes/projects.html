@@ -9,7 +9,7 @@
         <h4 class="lowercase">
         <small> {{ project.category }} .</small>
         <strong> <a href="{{ project.url }}">{{ project.title }}</a> </strong>
-          <strong> . {{ project.platform }}</strong> <small> . {{ project.language }} . </small>
+          <strong> . {{ project.platform }}</strong> <small> . {{ project.languages | array_to_sentence_string }} . </small>
 
           <small><div style="color:white"> {{ project.description }} </div></small>
         </h4>
