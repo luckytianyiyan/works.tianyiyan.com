@@ -10,6 +10,8 @@ languages:
   - C++(Qt 5)
   - Python
   - Windows Batch
+duties:
+  - 个人开发
 ---
 [![Tylauncher Logo](/img/post/tylauncher-logo.png)](http://www.tylauncher.com)
 

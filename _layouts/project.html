@@ -23,6 +23,9 @@
           {% if page.platform %}
           <h4>运行平台: {{ page.platform | array_to_sentence_string }}</h4>
           {% endif %}
+          {% if page.duties %}
+          <h4>职责: {{ page.duties | array_to_sentence_string }}</h4>
+          {% endif %}
           {{ page.content | markdownify }}
           {% include share.html %}
           {% if jekyll.environment == "production" %}

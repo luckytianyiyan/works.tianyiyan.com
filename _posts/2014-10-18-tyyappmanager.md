@@ -8,6 +8,8 @@ platform:
   - Windows 7+
 languages:
   - C++ (Qt 5)
+duties:
+  - 个人开发
 ---
 
 ![/img/post/WorksSample-6D-Space.jpg](/img/post/WorksSample-TyyAppManager.jpg)
@@ -21,7 +23,6 @@ languages:
 **它是我的个人开源项目.**
 
 - 时间: **2014-10-18** 至 **2014-11-14** (**当前已终止维护**)
-- 担任职责: **个人开发**
 
 # 特点
 
