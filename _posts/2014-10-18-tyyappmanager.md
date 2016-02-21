@@ -10,6 +10,7 @@ languages:
   - C++ (Qt 5)
 duties:
   - 个人开发
+deadline: 2014-11-14
 ---
 
 ![/img/post/WorksSample-6D-Space.jpg](/img/post/WorksSample-TyyAppManager.jpg)
@@ -19,10 +20,6 @@ duties:
 # 简介
 
 这是一款 应用快捷呼出程序，不仅可以快速整理 应用程序、文件夹、文件，还可以方便地通过键盘快速打开它们。
-
-**它是我的个人开源项目.**
-
-- 时间: **2014-10-18** 至 **2014-11-14** (**当前已终止维护**)
 
 # 特点
 

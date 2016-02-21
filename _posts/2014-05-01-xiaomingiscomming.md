@@ -10,6 +10,7 @@ languages:
   - C++ (Cocos2d-x)
 duties:
   - 主程
+deadline: 2014-11-28
 ---
 
 ![/img/post/WorksSample-XiaoMingIsComing.jpg](/img/post/WorksSample-XiaoMingIsComing.jpg)
@@ -17,8 +18,6 @@ duties:
 # 简介
 
 这是一款风趣的冒险益智类手机游戏。玩家扮演行侠仗义的"学生甲"，帮助同学从无恶不作的教务处主任"小明"那里夺回学生证。
-
-- 时间: **2014-05** 至 **2014-11-28**
 
 # 成就
 
