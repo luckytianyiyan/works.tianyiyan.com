@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: project
 section-type: post
 title: TyLauncher
 category: 应用
 tags: [ 'TyLauncher', 'Qt' ]
 platform: 'Windows 7+'
-language: 'C++(Qt 5), Python, Windows Batch'
+languages:
+  - C++(Qt 5)
+  - Python
+  - Windows Batch
 ---
 [![Tylauncher Logo](/img/post/tylauncher-logo.png)](http://www.tylauncher.com)
 

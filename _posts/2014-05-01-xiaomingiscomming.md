@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 section-type: post
 title: 小明来了(XiaoMingIsComing)
 category: 游戏
