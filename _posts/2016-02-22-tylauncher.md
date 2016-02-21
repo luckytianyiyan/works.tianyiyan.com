@@ -4,7 +4,8 @@ section-type: post
 title: TyLauncher
 category: 应用
 tags: [ 'TyLauncher', 'Qt' ]
-platform: 'Windows 7+'
+platform:
+  - Windows 7+
 languages:
   - C++(Qt 5)
   - Python

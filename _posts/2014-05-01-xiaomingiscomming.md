@@ -4,7 +4,8 @@ section-type: post
 title: 小明来了(XiaoMingIsComing)
 category: 游戏
 tags: [ 'Xiao Ming Is Coming', 'XiaoMingIsComing', '小明来了', 'Cocos2d-x', '手游' ]
-platform: iOS 7+
+platform:
+  - iOS 7+
 languages:
   - C++ (Cocos2d-x)
 ---

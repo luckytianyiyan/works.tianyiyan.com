@@ -20,6 +20,9 @@
           {% if page.languages %}
           <h4>使用的语言: {{ page.languages | array_to_sentence_string }}</h4>
           {% endif %}
+          {% if page.platform %}
+          <h4>运行平台: {{ page.platform | array_to_sentence_string }}</h4>
+          {% endif %}
           {{ page.content | markdownify }}
           {% include share.html %}
           {% if jekyll.environment == "production" %}

@@ -4,7 +4,8 @@ section-type: post
 title: TyyAppManager
 category: 应用
 tags: [ 'TyyAppManager', '桌面应用', 'Qt', '跨平台' ]
-platform: Windows 7+
+platform:
+  - Windows 7+
 languages:
   - C++ (Qt 5)
 ---
