@@ -27,7 +27,6 @@ $ cd works.tianyiyan.com
 $ script/bootstrap
 $ script/server-production
 ```
-````
 
 OSS used in `works.tianyiyan.com`
 ---
