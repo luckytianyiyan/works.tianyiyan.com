@@ -16,15 +16,17 @@ deadline:
 ---
 [![Tylauncher Logo](/img/post/tylauncher-logo.png)](http://www.tylauncher.com)
 
-- [官方网站](http://www.tylauncher.com)
-- [软件下载](https://github.com/luckytianyiyan/TyLauncher/releases/latest)
-- [Wiki](https://github.com/luckytianyiyan/TyLauncher/wiki)
-
 `TyLauncher` 是一个免费开源的文件管理工具.
 
-项目托管于 [GitHub - luckytianyiyan/TyLauncher](https://github.com/luckytianyiyan/TyLauncher).
+> 受到 Qt Open Source 版本 LICENSE 影响, `TyLauncher` 使用 GPLv3 开源协议.
 
-受到 Qt Open Source 版本 LICENSE 影响, `TyLauncher` 使用 GPLv3 开源协议.
+- [官方网站](http://www.tylauncher.com){:target="_blank"}
+- [软件下载](https://github.com/luckytianyiyan/TyLauncher/releases/latest){:target="_blank"}
+- [软件文档](https://github.com/luckytianyiyan/TyLauncher/wiki){:target="_blank"}
+
+- 项目托管于 [GitHub - luckytianyiyan/TyLauncher](https://github.com/luckytianyiyan/TyLauncher){:target="_blank"}
+- 安装文件托管于 [SourceForge - TyLauncher](http://sourceforge.net/projects/tylauncher){:target="_blank"}
+- 项目被**开源中国**收录: [OSChina - TyLauncher](http://www.oschina.net/p/TyLauncher){:target="_blank"}
 
 Overview
 ===
