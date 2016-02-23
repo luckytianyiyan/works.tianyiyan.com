@@ -7,13 +7,15 @@ require 'date'
 
 kWorksTemplate = \
 "---
-layout: post
+layout: project
 section-type: post
 title: %s
 category: Category
-tags: [ '%s' ]
+tags: [ 's' ]
 platform:
-language:
+languages:
+duties:
+deadline:
 ---
 "
 
